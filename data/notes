@@ -1,0 +1,12 @@
+Mushroom Fridge Version 0.7 15.06.2022
++ integrated sensors and lcdmenulib2
+- seperate CSS, HTML, JS and upload to filesystem
+- integrate BME, MHZ
+- Test Relais, Fan, water
+- integrate mean_10
+- intregrate lcd_menulib
++ sd card values
+- try to switch esp3.5.0 for sd
+- disable timer if function is disabled
+    - bug when timer reaches 0
+- SD Button/Disable

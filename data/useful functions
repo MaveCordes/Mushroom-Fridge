@@ -1,0 +1,34 @@
+    // loop
+    // char filename[16]
+    // size_t i;
+    // for (i = 0; i < 16; i++)
+    //   filename[i] = tolower(filename[i]);
+
+
+  // char year[5];
+  // char month[3];
+  // char day[3];
+  // char hour[3];
+  // char minute[3];
+  // char second[3];
+
+  // strftime(year,5, "%Y", &timeinfo);
+  // strftime(month,3, "%B", &timeinfo);
+  // strftime(day,3, "%d", &timeinfo);
+  // strftime(hour,3, "%H", &timeinfo);
+  // strftime(minute,3, "%M", &timeinfo);
+  // strftime(second,3, "%S", &timeinfo);
+
+  /* Commands for Float Average Library
+    Serial.print("Mean:   "); Serial.println(ave.mean());
+    Serial.print("Mode:   "); Serial.println(ave.mode());
+    Serial.print("Max:    "); Serial.println(ave.maximum(&maxat));
+    Serial.print(" at:    "); Serial.println(maxat);
+    Serial.print("Min:    "); Serial.println(ave.minimum(&minat));
+    Serial.print(" at:    "); Serial.println(minat);
+    Serial.print("StdDev: "); Serial.println(ave.stddev());
+
+    uint8_t minat = 0;
+    uint8_t maxat = 0;
+ */
+ 
